@@ -5,7 +5,7 @@ from setuptools import setup
 
 
 #REQUIRED_PACKAGES = ['Pillow>=1.0', 'Flask', 'tensorflow', 'six', 'matplotlib']
-REQUIRED_PACKAGES = ['numpy']
+REQUIRED_PACKAGES = ['Flask']
 
 setup(
     name='webrtc_object_detection',
