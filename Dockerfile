@@ -1,4 +1,5 @@
-FROM  jjhdochub/object-detection-base-image
+#FROM  jjhdochub/object-detection-base-image
+FROM  jjhdochub/2020obtest
 #MAINTAINER  jeon
 
 #RUN yum -y update
