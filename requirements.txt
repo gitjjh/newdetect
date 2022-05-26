@@ -1,7 +1,7 @@
 numpy
 Pillow>=1.0
 Flask
-tensorflow==1.12.2
+tensorflow==2.7.2
 protobuf==3.6.0
 six
 matplotlib==1.5.3
